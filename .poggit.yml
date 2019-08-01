@@ -1,5 +1,6 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/VNDong/LobbyCore
 branches:
 - master
-projects: [LobbyCore]
+projects: [
+LobbyCore]
 ...
